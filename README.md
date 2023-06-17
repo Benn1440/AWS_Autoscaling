@@ -45,3 +45,6 @@ Another awesome feature of Autoscale is its scheduling capability, allowing user
 
 ![Scheduled action](https://github.com/Benn1440/AWS_Autoscaling/assets/67696393/be134dc7-38da-4cae-9632-b491d2f4af01)
 
+# Futher Reference on AWS Autoscaling
+
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
