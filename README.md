@@ -10,13 +10,13 @@ When demand drops, AWS auto-scaling will automatically remove any excess resourc
 
 Continually monitors your applications to make sure that they are operating at your desired performance levels. Using AWSAutoscaling, you maintain optimal application performance and availability, even when workloads are periodic, unpredictable, or continuously changing.
 
-![Scaling Policy](https://github.com/Benn1440/AWS_Autoscaling/assets/67696393/b5550d94-e94c-48b7-989f-3953b086d5ed)
+![create template](https://github.com/Benn1440/AWS_Autoscaling/assets/67696393/150fe430-9d9b-4c93-9b66-7dc8dde5ba5e)
+
 
 You can capture the contents of an instance and its volume into an Amazon machine image(AMI) usually used for launching new instances with identical configurations.
 Launch Templates are used to store launch parameters so that you do not have to specify them every time you launch an instance. I.e. AMI ID, Instance type, network settings, etc.
 
-
-![create template](https://github.com/Benn1440/AWS_Autoscaling/assets/67696393/150fe430-9d9b-4c93-9b66-7dc8dde5ba5e)
+![Scaling Policy](https://github.com/Benn1440/AWS_Autoscaling/assets/67696393/b5550d94-e94c-48b7-989f-3953b086d5ed)
 
 More than 5,000 launch templates per region can be created and 10,000 versions per launch template.
 
